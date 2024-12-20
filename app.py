@@ -1,5 +1,5 @@
 xmport json
-import boto11
+import boto22
 
 
 def lambda_handler(event, context):
